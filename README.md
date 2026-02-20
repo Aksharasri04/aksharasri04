@@ -15,14 +15,13 @@
 
 ## 🎓 About Me
 
-I'm a **Data Science Graduate Student** at the University of Colorado Boulder (GPA: 3.8/4) with a passion for building intelligent systems that solve real-world problems. My work spans across **AI/ML engineering**, **data analytics**, and **data engineering** — turning complex data challenges into impactful solutions.
+My work spans across **AI/ML engineering**, **data analytics**, and **data engineering** transforming complex datasets into meaningful insights. My interest in this field began with curiosity about patterns in everyday data and has grown into a passion for building solutions that create real world impact.
 
-- 🔭 Currently working on: RAG-powered AI systems and ML pipelines
+- 🔭 Currently working on: RAG powered AI systems and ML pipelines
 - 🌱 Learning: Advanced LLM applications, MLOps, and distributed systems
-- 🏆 Achievement: Top-3 Winner at Denver International Airport DASSA Hackathon
+- 🏆 Achievement: Top 3 Winner at Denver International Airport DASSA Hackathon
 - 📄 Published Researcher in AI & Deep Learning
 - ☁️ AWS Certified Cloud Practitioner
-- 📍 Based in: Boulder, Colorado
 
 ---
 
