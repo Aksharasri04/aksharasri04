@@ -10,7 +10,20 @@
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:akla8196@colorado.edu)
 
 </div>
+## 📫 Let's Connect!
 
+I'm always excited to collaborate on interesting projects or discuss opportunities in **AI/ML**, **Data Science**, or **Data Engineering**!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshara-sri-lakshmipathy-31a787257/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aksharasri04.github.io/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akla8196@colorado.edu)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akshara-Sri)
+
+</div>
+
+---
 ---
 
 ## 🎓 About Me
@@ -148,20 +161,7 @@ Real-time pollution monitoring with predictive analytics.
 
 ---
 
-## 📫 Let's Connect!
 
-I'm always excited to collaborate on interesting projects or discuss opportunities in **AI/ML**, **Data Science**, or **Data Engineering**!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshara-sri)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sites.google.com/view/aksharalakshmipathy/home)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akla8196@colorado.edu)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akshara-Sri)
-
-</div>
-
----
 
 <div align="center">
 
