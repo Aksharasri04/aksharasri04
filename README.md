@@ -5,11 +5,12 @@
 
 ### AI/ML Engineer | Data Analyst + Data Engineer | Published Researcher
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/akshara-sri)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome)](https://sites.google.com/view/aksharalakshmipathy/home)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/akshara-sri](https://www.linkedin.com/in/akshara-sri-lakshmipathy-31a787257/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome)]((https://aksharasri04.github.io/))
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:akla8196@colorado.edu)
 
 </div>
+https://aksharasri04.github.io/
 
 ---
 
