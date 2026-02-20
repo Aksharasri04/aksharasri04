@@ -10,7 +10,6 @@
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:akla8196@colorado.edu)
 
 </div>
-https://aksharasri04.github.io/
 
 ---
 
