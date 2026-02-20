@@ -123,20 +123,6 @@ Real-time pollution monitoring with predictive analytics.
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akshara-Sri&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshara-Sri&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Akshara-Sri&theme=radical&hide_border=true)
-
-</div>
-
----
-
 ## 📝 Latest Publications
 
 - **[Detection and Predicting Air Pollution Level using Deep Learning](https://www.ijritcc.org/)** (2023)  
