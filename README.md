@@ -98,6 +98,11 @@ Built an AI assistant using FastAPI, ChromaDB, and Gemini with LoRA-tuned Gemma 
 - **Tech:** Python, FastAPI, ChromaDB, LLMs, AWS EC2
 - **Impact:** 500+ users, 99.2% uptime, 30% latency reduction
 
+### 💨 [Air Pollution Analysis & Forecasting](https://github.com/Akshara-Sri/air-pollution-analysis)
+Real-time pollution monitoring with predictive analytics.
+- **Tech:** Kafka, Airflow, ARIMA, Plotly
+- **Scale:** 1M+ daily records, 60% processing time reduction
+
 ### 📊 [Denver Airport Operational Analytics](https://github.com/Akshara-Sri/den-analytics)
 Award-winning analytics solution tracking task performance and workload distribution.
 - **Tech:** Tableau, Python, SQL
@@ -112,11 +117,6 @@ Analyzed supplier performance using geospatial clustering and ML algorithms.
 Deep learning pipeline for disease classification with Q&A capabilities.
 - **Tech:** PyTorch, ResNet50, T5, Flask
 - **Impact:** 40% faster farmer decision-making
-
-### 💨 [Air Pollution Analysis & Forecasting](https://github.com/Akshara-Sri/air-pollution-analysis)
-Real-time pollution monitoring with predictive analytics.
-- **Tech:** Kafka, Airflow, ARIMA, Plotly
-- **Scale:** 1M+ daily records, 60% processing time reduction
 
 ---
 
