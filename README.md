@@ -20,10 +20,10 @@
 
 My work spans across **AI/ML engineering**, **data analytics**, and **data engineering** transforming complex datasets into meaningful insights. My interest in this field began with curiosity about patterns in everyday data and has grown into a passion for building solutions that create real world impact.
 
-- 🔭 Currently working on: RAG powered AI systems and ML pipelines
-- 🌱 Learning: Advanced LLM applications, MLOps, and distributed systems
-- 🏆 Achievement: Top 3 Winner at Denver International Airport DASSA Hackathon
-- 📄 Published Researcher in AI & Deep Learning
+- 🔭 Currently working on: RAG AI systems, ML pipelines and Cloud Deployment
+- 🌱 Learning: Advanced LLM applications, MLOps
+- 🏆 Achievement: Winner at Denver International Airport DASSA Hackathon
+- 📄 Published Researcher in Deep Learning
 - ☁️ AWS Certified Cloud Practitioner
 
 ---
