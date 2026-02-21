@@ -23,9 +23,8 @@ My work spans across **AI/ML engineering**, **data analytics**, and **data engin
 - 🔭 Currently working on: RAG AI systems, ML pipelines and Cloud Deployment
 - 🌱 Learning: Advanced LLM applications, MLOps
 - 🏆 Achievement: Winner at Denver International Airport DASSA Hackathon
-- 📄 Published Researcher in Deep Learning
-- ☁️ AWS Certified Cloud Practitioner
-
+- 📄 Published Researcher in Deep Learning (2023)
+- ☁️ AWS Certified Cloud Practitioner (CLF-C02)
 ---
 
 ## 💼 Professional Experience
@@ -128,14 +127,6 @@ Real-time pollution monitoring with predictive analytics.
 
 ---
 
-## 🏆 Certifications & Achievements
-
-- ☁️ **AWS Certified Cloud Practitioner (CLF-C02)** - January 2026
-- 🏆 **Top-3 Winner** - Denver International Airport DASSA Hackathon
-- 📄 **Published Researcher** - AI & Deep Learning (2023)
-- 🎓 **GPA 3.8/4.0** - MS Data Science, University of Colorado Boulder
-
----
 
 
 
