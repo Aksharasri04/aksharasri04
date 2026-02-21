@@ -136,6 +136,7 @@ My work spans across **AI/ML engineering**, **data analytics**, and **data engin
 
 </div>
 ---
+
 ## 🚀 Featured Projects
 
 ### 🤖 [RAG-Powered Financial Empowerment Chatbot](https://github.com/Akshara-Sri/financial-chatbot)
