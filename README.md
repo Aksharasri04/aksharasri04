@@ -125,10 +125,6 @@ Real-time pollution monitoring with predictive analytics.
 - **[Detection and Predicting Air Pollution Level using Deep Learning](https://www.ijritcc.org/)** (2023)  
   *International Journal on Recent and Innovation Trends in Computing and Communication*
 
----
-
-
-
 
 <div align="center">
 
